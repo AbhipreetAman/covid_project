@@ -1,5 +1,4 @@
 **Covid Management System**
-Overview
 This project is a simple command-line based Hospital Management System designed to manage patient details and their hospital stay information. It includes functionalities for emergency handling, COVID ward management, patient information insertion, updating, searching, displaying, and billing.
 
 **Features**
